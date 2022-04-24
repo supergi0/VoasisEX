@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Voasis example
+ */
+
+grammar hello;
+public <timedate> = ( notify ) ( me );
+public <other> = ( start ) ( making ) ( notes );
+public <draw> = ( create ) ( drawing );
+public <start> =( stimulate );
+public <openings> = ( open ) ( calculator );
+public <helping> = ( show ) ( me ) ( commands );
+public <closing> = ( exit ) ( application );
+public <exit> = ( close ) ( current ) ( window );
